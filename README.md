@@ -4,10 +4,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Sobre Mim
 
- **[Liste as linguagens ou tecnologias]**
-- 👯 Estou procurando colaborar em **projetos de código aberto**
-- 💬 Pergunte-me sobre **[sua especialidade ou interesse]**
-- 📫 Como me encontrar: **[seu email ou outra forma de contato]**
+- 👯 Estou atualmente trabalhando como estagiario de desenvolvimento web
+- 💬 Adoro jogos como CS e Valorant, mas também jogo RTS, MOBA entre outros
 
 ## 🛠️ Tecnologias e Ferramentas
 - 🌱 Aqui estão algumas das linguagens de programação e ferramentas que estou estudando:
