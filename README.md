@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Giulio Maciotta 👋
 
-<!--
-**GiulioMaciotta/GiulioMaciotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de aprender coisas novas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **[Liste as linguagens ou tecnologias]**
+- 👯 Estou procurando colaborar em **projetos de código aberto**
+- 💬 Pergunte-me sobre **[sua especialidade ou interesse]**
+- 📫 Como me encontrar: **[seu email ou outra forma de contato]**
+
+## 🛠️ Tecnologias e Ferramentas
+- 🌱 Aqui estão algumas das linguagens de programação e ferramentas que estou estudando:
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- 📕 E planejo estudar mais futuramente essas:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/GiulioMaciotta)
+- [Twitter] Que esteja em nossos corações F kk
+- [Email](mailto:gmaciotta@gmail.com)
+
+---
+
+⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
