@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Sobre Mim
 
-- 👯 Estou atualmente trabalhando como estagiario de desenvolvimento web
+- 👯 Estou procurando oportunidades :D
 - 💬 Adoro jogos como CS e Valorant, mas também jogo RTS, MOBA entre outros
 
 ## 🛠️ Tecnologias e Ferramentas
