@@ -36,7 +36,7 @@ Aqui estão algumas das linguagens de programação e ferramentas que estou estu
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/GiulioMaciotta)
-- [Twitter] Que esteja em nossos corações F kk
+- [Twitter] Nah...
 - [Email](mailto:gmaciotta@gmail.com)
 
 ---
